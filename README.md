@@ -1,1 +1,3 @@
 # Projet-Dev-Desktop-Electron-React
+
+Pas d'idée précise pour l'instant j'hésite entre plusieurs choses...
