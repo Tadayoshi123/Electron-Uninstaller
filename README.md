@@ -6,7 +6,7 @@
 
 Electron Uninstaller sera une application permettant de désinstaller des programmes installés sur l'ordinateur. Elle sera développée en Electron et en React.
 
-Le but c'est de refaire une application similaire à Geek Uninstaller[https://geekuninstaller.com/] qui permet de désinstaller plus proprement des programmes installés sur l'ordinateur en supprimant en profondeur les fichiers et dossiers liés au programme désinstallé et en supprimant ses entrées dans le registre.
+Le but c'est de refaire une application similaire à [Geek Uninstaller](https://geekuninstaller.com/) qui permet de désinstaller plus proprement des programmes installés sur l'ordinateur en supprimant en profondeur les fichiers et dossiers liés au programme désinstallé et en supprimant ses entrées dans le registre.
 
 ### Fonctionnalités
 

@@ -2,8 +2,8 @@
   "name":"electron",
   "version":"0.1.0",
   "main":"./public/electron.js",
-  "author": "Zakaria Kerkeb",
-  "description": "Mettez la description de l'app ici",
+  "author": "Yanis Djoudi",
+  "description": "Electron Uninstaller",
   "homepage":"./",
   "private":true,
   "dependencies":{
