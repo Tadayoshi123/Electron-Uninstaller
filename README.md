@@ -12,7 +12,7 @@ Le but c'est de refaire une application similaire à Geek Uninstaller[https://ge
 
 - Afficher la liste des programmes installés sur l'ordinateur (nom, version, date d'installation, taille, emplacement (dossier, registre), etc.)
 - Désinstaller un programme :
-    - 1. Désinstaller/Modifier le programme avec son outil de désinstallation/modificatio
+    - 1. Désinstaller/Modifier le programme avec son outil de désinstallation/modification
     - 2. Supprimer les fichiers et dossiers liés au programme
     - 3. Supprimer les entrées du registre liées au programme
 
