@@ -24,4 +24,6 @@ De la même manière que c'est fait dans Geek Uninstaller, on peut ajouter des f
 - Proposer à l'utilisateur de faire une recherche Google sur le programme
 - Faire la différence entre application de bureau et applications du microsoft store
 
+### Lien YouTube
 
+[Ma vidéo](https://youtu.be/Sf5_A8C2W5Q)
